@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box1{
+    background-image: url(./images/banner.jpg);
+    width: 1200px;
+    height: 480px;
+    margin: auto;
+    padding: 155px 0 0 240px;
+    box-sizing: border-box;
+}
+.a1{
+    padding-bottom: 20px;
+    padding-left: 140px;
+}
+.a1 h1{
+    font-size: 52px;
+    color: white;
+}
+.a1 p{
+    padding-left: 30px;
+    font-size: 14px;
+    color: gray;
+}
+.a2{
+    display: flex;
+}
+.a2 a{
+    color: gray;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 5px;
+    display: block;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 30px 30px;
+}
+.a2 a:hover{
+    color: white;
+    border: solid white;
+}
+
+.box2{
+    background-color: white;
+    width: 1200px;
+    height: 630px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 30px;
+    display: flex;
+    box-sizing: border-box;
+}
+.b1{
+    width: fit-content;
+    padding-right: 20px;
+    text-align: justify;
+}
+.b1 h1 {
+    padding-top: 50px;
+}
+.b1 p {
+    padding-bottom: 30px;
+}
+.b1 img{
+    padding-bottom: 20px;
+}
+.b1 a{
+    color: black;
+}
+.b2{
+    width: fit-content;
+}
+.b2 h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.b2 img{
+    padding-right: 20px;
+}
+.bc{
+    color: gray;
+    font-size: 12px;
+    padding-top: 20px;
+}
+.ba1{
+    display: flex;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.ba2{
+    display: flex;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.ba3{
+    display: flex;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.box3{
+    background-color: rgba(128, 128, 128, 0.2);
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box3 h1{
+    padding-bottom: 30px;
+    font-size: 18px
+}
+.box3 a{
+    display: block;
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 30px 30px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+.c1{
+    padding-top: 50px;
+}
+.c2{
+    padding-top: 50px;
+}
+.c3{
+    padding-top: 50px;
+}
+.textbox1{
+    width: 315px;
+    height: 120px;
+    padding-top: 20px;
+    text-align: justify;
+}
+.textbox2{
+    width: 315px;
+    height: 120px;
+    padding-top: 20px;
+    text-align: justify;
+}
+.textbox3{
+    width: 315px;
+    height: 120px;
+    padding-top: 20px;
+    text-align: justify;
+}
+
+.box4{
+    background-color: rgb(73, 73, 73);
+    width: 1200px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box4 h3{
+    padding-bottom: 30px;
+    color: white;
+}
+.box4 a{
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
+.d1{
+    padding-top: 40px;
+}
+.d2{
+    padding-top: 40px;
+}
+.d3{
+    padding-top: 40px;
+}
+.textboxA{
+    width: 350px;
+    height: 120px;
+}
+.textboxB{
+    width: 350px;
+    height: 120px;
+}
+.textboxC{
+    width: 350px;
+    height: 120px;
+}
+.box4 hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color: rgb(31, 31, 31);
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+}
+.footer p{
+    color: gray;
+    text-align: center;
+    line-height: 100px;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+}
